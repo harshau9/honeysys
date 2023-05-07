@@ -1,9 +1,84 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "prod": [
+    {
+      "id": 1,
+      "dis":"₹ 40.00 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/3-Roses-Natural-Care-500G-1.jpg",
+      "name": "3 Roses Natural Care 500g",
+      "qty": "500g",
+      "price": "₹ 400.00",
+      "s_price": "₹ 440.00",
+      "save": "SAVING ₹ 40.00"
+    },
+    {
+      "id": 2,
+      "dis":"₹ 65.00 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/B-Natural-Guava-Gush-1000Ml-1.jpg",
+      "name": "B Natural Guava Juice 1L",
+      "qty": "1 ltr",
+      "price": "₹ 65.00",
+      "s_price": "₹ 130.00",
+      "save": "SAVING ₹ 65.00"
+    },
+    {
+      "id": 3,
+      "dis":"₹ 65.00 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/B-Natural-Litchi-Luscious-1000Ml-1.jpg",
+      "name": "B Natural Litchi Juice 1L",
+      "qty": "1 ltr",
+      "price": "₹ 65.00",
+      "s_price": "₹ 130.00",
+      "save": "SAVING ₹ 65.00"
+    },
+    {
+      "id": 4,
+      "dis":"₹ 40.00 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/B-Natural-Mixed-Fruit-Mry-1000Ml-1.jpg",
+      "name": "B Natural Mixed Fruit Juice 1L",
+      "qty": "1 ltr",
+      "price": "₹ 65.00",
+      "s_price": "₹ 130.00",
+      "save": "SAVING ₹ 65.00"
+    },
+    {
+      "id": 5,
+      "dis":"₹ 40.00 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/Horlicks-Women-400G-Refill-Caramel-1.jpg",
+      "name": "Horlicks Women Caramel Refill 400g",
+      "qty": "400 g",
+      "price": "₹ 280.00",
+      "s_price": "₹ 320.00",
+      "save": "SAVING ₹ 40.00"
+    },
+    {
+      "id": 6,
+      "dis":"₹ 35.00 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/Taj-Mahal-Tea-Refill-500G-1.jpg",
+      "name": "Taj Mahal Tea Refill 500g",
+      "qty": "500g",
+      "price": "₹ 390.00",
+      "s_price": "₹ 425.00",
+      "save": "SAVING ₹ 35.00"
+    },
+    {
+      "id": 7,
+      "dis":"₹ 87.50 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/Saffola-Peanut-Butter-Crunchy-350G-1.jpg",
+      "name": "Saffola Peanut Butter Creamy 350g",
+      "qty": "350g",
+      "price": "₹ 87.50",
+      "s_price": "₹ 175.00",
+      "save": "SAVING ₹ 87.50"
+    },
+    {
+      "id": 8,
+      "dis":"₹ 30.00 OFF",
+      "image": "https://cdn.ratnadeep.online/product/thumbnail/Piknik-Tomato-Chilly-Sumo-Pack-70G-1.jpg",
+      "name": "Piknik Tomato Chilly Sumo Pack 70g",
+      "qty": "70g",
+      "price": "₹ 30.00",
+      "s_price": "₹ 60.00",
+      "save": "SAVING ₹ 30.00"
+    }
+  ]
 }
